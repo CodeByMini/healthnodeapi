@@ -1,0 +1,12 @@
+.dist
+/node_modules/
+.env
+/views/compose.ejs
+/devstuff/
+/one/
+desktop.ini
+public/images/hamburgermenu-l.png
+
+testserver/
+testservers/
+k8s/
